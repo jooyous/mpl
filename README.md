@@ -1,4 +1,2 @@
-# most parsimonious likelihood
+## Most Parsimonious Likelihood (has lumps)
 
-```
-sage
