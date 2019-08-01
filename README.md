@@ -25,12 +25,4 @@ The sort_functions procedure takes a long time, so you can get intermediate valu
 
 You can make your own data, it just needs to be a list of length 6.
 ```
-You can also switch to a different tree by typing 
-```
-g = tree5
-```
-or 
-```
-g = tree3
-```
-but you need to make your own if you want some other trees. Printing out ```g``` will provide helpful information for this.
+You can also switch to a different tree by typing`g = tree5` or `g = tree3` but you need to make your own if you want some other trees. Printing out `g` will provide helpful information for this.
