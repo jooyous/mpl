@@ -1,6 +1,6 @@
 ## Most Parsimonious Likelihood (has lumps)
 
-You need to have `sage` installed for this, which you can get [here][http://www.sagemath.org/download-linux.html] as well as using
+You need to have `sage` installed for this, which you can get [http://www.sagemath.org/download-linux.html][here] as well as using
 ```
 sudo apt-get install sagemath
 ```
